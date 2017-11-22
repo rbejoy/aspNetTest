@@ -1,0 +1,9 @@
+/Users/Renil/codingStuff/csharp/aspTest/bin/Debug/netcoreapp1.1/aspTest.deps.json
+/Users/Renil/codingStuff/csharp/aspTest/bin/Debug/netcoreapp1.1/aspTest.runtimeconfig.json
+/Users/Renil/codingStuff/csharp/aspTest/bin/Debug/netcoreapp1.1/aspTest.runtimeconfig.dev.json
+/Users/Renil/codingStuff/csharp/aspTest/bin/Debug/netcoreapp1.1/aspTest.dll
+/Users/Renil/codingStuff/csharp/aspTest/bin/Debug/netcoreapp1.1/aspTest.pdb
+/Users/Renil/codingStuff/csharp/aspTest/obj/Debug/netcoreapp1.1/aspTest.csproj.CoreCompileInputs.cache
+/Users/Renil/codingStuff/csharp/aspTest/obj/Debug/netcoreapp1.1/aspTest.AssemblyInfo.cs
+/Users/Renil/codingStuff/csharp/aspTest/obj/Debug/netcoreapp1.1/aspTest.dll
+/Users/Renil/codingStuff/csharp/aspTest/obj/Debug/netcoreapp1.1/aspTest.pdb
